@@ -12,3 +12,28 @@
 
 ---
 
+## Обо мне
+
+**iOS-разработчик**
+
+Специализируюсь на UIKit, SwiftUI, архитектурах (MVC, MVVM), Core Data, Realm, SwiftData.
+  
+**Ищу позицию iOS Developer / стажер.**
+
+---
+
+## Ключевые навыки
+
+### Языки
+- Swift
+
+### Фреймворки и инструменты
+- SwiftUI, UIKit, Combine,
+- Core Data, Realm, SwiftData
+- URLSession, Alamofire, async/await
+- Unit Testing, UI Testing, TDD
+- SPM, Git
+
+### Архитектуры
+- MVC
+- MVVM
