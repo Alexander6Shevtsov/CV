@@ -27,13 +27,44 @@
 ### Язык
 - Swift
 
-### Фреймворки и инструменты
-- SwiftUI, UIKit, Combine,
-- Core Data, Realm, SwiftData
+
+### Фреймворки
+- UIKit, SwiftUI, Core Data
+
 - URLSession, Alamofire, async/await
 - Unit Testing, UI Testing, TDD
-- SPM, Git
+
 
 ### Архитектуры
-- MVC
-- MVVM
+- MVVM, MVC, MVP
+
+### Инструменты
+-  Xcode, Git, SPM
+
+---
+ 
+
+## Образование
+
+**УО "Государственный политехнический колледж" РБ**
+
+*Факультет: Разработка и сопровождение программного обеспечения информационных систем*
+
+*Специальность: Техник-программист*
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
