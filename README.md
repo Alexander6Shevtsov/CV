@@ -16,30 +16,39 @@
 
 **iOS-разработчик**
 
-Специализируюсь на UIKit, SwiftUI, архитектурах (MVC, MVVM), Core Data, Realm, SwiftData.
-  
-**Ищу позицию iOS Developer / стажер.**
+**Специализируюсь на UIKit и SwiftUI.** 
+**Строю простые и поддерживаемые приложения, работаю с сетью и локальным хранилищем, пишу модульные тесты.** 
+**Практикую MVC/MVVM/MVP, Coordinator, принципы SOLID и слои Clean Architecture.** 
+**Хобби: люблю спорт и автомобили.**
+
+**Цели**
+
+**Ищу стажировку или позицию iOS Developer для работы и роста в сторону продакшн‑приложений, UI‑тестирования, оптимизации производительности и безопасности.**
 
 ---
 
 ## Ключевые навыки
 
 ### Язык
-- Swift
-
+- Swift 
 
 ### Фреймворки
-- UIKit, SwiftUI, Core Data
+- UIKit, SwiftUI, Core Data, Alamofire
 
-- URLSession, Alamofire, async/await
-- Unit Testing, UI Testing, TDD
-
+### Хранение
+- Core Data, Realm, UserDefaults
 
 ### Архитектуры
-- MVVM, MVC, MVP
+- MVC, MVVM, MVP, Coordinator, SOLID слои Clean Architecture
 
 ### Инструменты
 -  Xcode, Git, SPM
+
+### Тестирование
+- XCTest (Unit), TDD‑подход на простых кейсах
+
+### Сеть
+- URLSession; базовые REST‑паттерны; ручной парсинг JSON
 
 ---
  
