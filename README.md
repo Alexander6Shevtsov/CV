@@ -2,67 +2,67 @@
 <img src="https://github.com/user-attachments/assets/97898e89-2bf1-476a-bf1c-271ada5a53ef" alt="Alexander Shevtsov" width="300" height="380">
 </p>
 
-<h1 align="center">Александр Шевцов — iOS Разработчик</h1>
+<h1 align="center">Александр Шевцов — iOS Developer</h1>
 
 **Город:** Санкт-Петербург  
 **Email:** [alexander.s.shevtsov@gmail.com](mailto:alexander.s.shevtsov@gmail.com)  
 **Telegram:** [@Xander_Koin](https://t.me/Xander_Koin)  
 **LinkedIn:** [Александр Шевцов](https://www.linkedin.com/in/alexander-shevtsov)  
-**GitHub:** [github.com/Alexander6Shevtsov](https://github.com/Alexander6Shevtsov)
+**GitHub:** [Alexander6Shevtsov](https://github.com/Alexander6Shevtsov)
+
+---
+
+## Цель
+iOS Developer/Intern. Готов к стажировке и офферу. Формат: удалённый/гибрид/офис СПб.
 
 ---
 
 ## Обо мне
 
-**iOS-разработчик**
-
 **Специализируюсь на UIKit и SwiftUI.** 
 **Строю простые и поддерживаемые приложения, работаю с сетью и локальным хранилищем, пишу модульные тесты.** 
 **Практикую MVC/MVVM/MVP, Coordinator, принципы SOLID и слои Clean Architecture.** 
-**Хобби: люблю спорт и автомобили.**
-
-**Цели**
-
-**Ищу стажировку или позицию iOS Developer для работы и роста в сторону продакшн‑приложений, UI‑тестирования, оптимизации производительности и безопасности.**
 
 ---
 
-## Ключевые навыки
+## Навыки
+- **Язык:** Swift 5.x, протокол-ориентированное проектирование  
 
-### Язык
-- Swift 
+- **Фреймворки:** UIKit, SwiftUI, Core Data
 
-### Фреймворки
-- UIKit, SwiftUI, Core Data, Alamofire
+- **Хранение:** Core Data, Realm, UserDefaults
 
-### Хранение
-- Core Data, Realm, UserDefaults
+- **Архитектуры:** MVC, MVVM, MVP, Coordinator, SOLID слои Clean Architecture
 
-### Архитектуры
-- MVC, MVVM, MVP, Coordinator, SOLID слои Clean Architecture
+- **Инструменты:**  Xcode, Git, SPM
 
-### Инструменты
--  Xcode, Git, SPM
+- **Тесты:** XCTest (Unit), TDD‑подход на простых кейсах
 
-### Тестирование
-- XCTest (Unit), TDD‑подход на простых кейсах
-
-### Сеть
-- URLSession; базовые REST‑паттерны; ручной парсинг JSON
+- **Сеть:** URLSession; базовые REST‑паттерны; ручной парсинг JSON
 
 ---
- 
 
-## Образование
+ ## Проекты
+- **ShopApp** — каталог + авторизация  
+  Стек: Swift, UIKit/SwiftUI, MVP + Coordinator, URLSession, UserDefaults, XCTest.  
+  Код: https://github.com/Alexander6Shevtsov/ShopApp
 
-**УО "Государственный политехнический колледж" РБ**
+- **TodoListApp** — список дел без Storyboard  
+  Стек: Swift, UIKit, Core Data, MVC, верстка кодом.  
+  Код: https://github.com/Alexander6Shevtsov/TodoListApp
 
-*Факультет: Разработка и сопровождение программного обеспечения информационных систем*
+- **ContactsList** — ручной парсинг/`Codable`  
+  Стек: Swift, UIKit.  
+  Код: https://github.com/Alexander6Shevtsov/ContactsList
 
-*Специальность: Техник-программист*
+- **UnitTesting2** — пример структуры модульных тестов  
+  Стек: Swift, XCTest.  
+  Код: https://github.com/Alexander6Shevtsov/UnitTesting2
 
 
-
+## Образование и курсы
+- УО «Государственный политехнический колледж» (РБ). Техник-программист  
+- Курс «iOS Developer», Школа мобильной разработки SwiftBook
 
 
 
