@@ -55,10 +55,6 @@ iOS Developer/Intern. Готов к стажировке и офферу. Фор
   Стек: Swift, UIKit.  
   Код: https://github.com/Alexander6Shevtsov/ContactsList
 
-- **UnitTesting2** — пример структуры модульных тестов  
-  Стек: Swift, XCTest.  
-  Код: https://github.com/Alexander6Shevtsov/UnitTesting2
-
 
 ## Образование и курсы
 - УО «Государственный политехнический колледж» (РБ). Техник-программист  
