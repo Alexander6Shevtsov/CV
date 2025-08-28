@@ -43,7 +43,7 @@ iOS Developer/Intern. Готов к стажировке и офферу. Фор
 ---
 
  ## Проекты
-- **ShopApp** — каталог + авторизация  
+- **ShopApp** — каталог + авторизация (тестовое)  
   Стек: Swift, UIKit/SwiftUI, MVP + Coordinator, URLSession, UserDefaults, XCTest.  
   Код: https://github.com/Alexander6Shevtsov/ShopApp
 
