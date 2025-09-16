@@ -13,7 +13,7 @@
 ---
 
 ## Цель
-iOS Developer/Intern. Готов к стажировке и офферу. Формат: удалённый/гибрид/офис СПб.
+iOS Developer/Intern. Готов к стажировке и офферу. Формат: удалённый, гибрид/офис СПб.
 
 ---
 
@@ -43,8 +43,13 @@ iOS Developer/Intern. Готов к стажировке и офферу. Фор
 ---
 
  ## Проекты
-- **ShopApp** — каталог + авторизация (тестовое)  
-  Стек: Swift, UIKit/SwiftUI, MVP + Coordinator, URLSession, UserDefaults, XCTest.  
+- **ToDoList** - список задач (тестовое)
+  Стек: UIKit · VIPER · Core Data · URLSession · XCTest
+  Тесты: API, репозиторий, презентер, базовые UI-прогоны
+  Код: https://github.com/Alexander6Shevtsov/ToDoList
+ 
+- **ShopApp** — каталог + авторизация (тестовое)
+  Стек: Swift, UIKit/SwiftUI, MVP + Coordinator, URLSession, UserDefaults, XCTest.    
   Код: https://github.com/Alexander6Shevtsov/ShopApp
 
 - **TodoListApp** — список дел без Storyboard  
