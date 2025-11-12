@@ -19,9 +19,9 @@ iOS Developer/Intern. Готов к стажировке и офферу. Фор
 
 ## Обо мне
 
-**Специализируюсь на UIKit и SwiftUI.** 
+**Специализируюсь на UIKit.** 
 **Строю простые и поддерживаемые приложения, работаю с сетью и локальным хранилищем, пишу модульные тесты.** 
-**Практикую MVC/MVVM/MVP, Coordinator, принципы SOLID и слои Clean Architecture.** 
+**Практикую MVC/MVVM/MVP/VIPER, Coordinator, принципы SOLID и слои Clean Architecture.** 
 
 ---
 
@@ -32,7 +32,7 @@ iOS Developer/Intern. Готов к стажировке и офферу. Фор
 
 - **Хранение:** Core Data, Realm, UserDefaults
 
-- **Архитектуры:** MVC, MVVM, MVP, Coordinator, SOLID слои Clean Architecture
+- **Архитектуры:** MVC, MVVM, MVP, VIPER, Coordinator, SOLID слои Clean Architecture
 
 - **Инструменты:**  Xcode, Git, SPM
 
@@ -62,8 +62,9 @@ iOS Developer/Intern. Готов к стажировке и офферу. Фор
 
 
 ## Образование и курсы
-- УО «Государственный политехнический колледж» (РБ). Техник-программист  
+- Стажировка ШИФТ 
 - Курс «iOS Developer», Школа мобильной разработки SwiftBook
+- УО «Государственный политехнический колледж» (РБ). Техник-программист  
 - Постоянное улучшение Soft и Hard скилов)
 
 
