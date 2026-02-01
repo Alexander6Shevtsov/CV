@@ -45,7 +45,7 @@ iOS Developer/Intern. Готов к стажировке и офферу. Фор
  ## Проекты
 - **ToDoList** - список задач (тестовое)
   Стек: UIKit · VIPER · Core Data · URLSession · XCTest
-  Тесты: API, репозиторий, презентер, базовые UI-прогоны
+  Тесты: API, репозиторий, презентер, базовые UI-прогоны  
   Код: https://github.com/Alexander6Shevtsov/ToDoList
  
 - **ShopApp** — каталог + авторизация (тестовое)
