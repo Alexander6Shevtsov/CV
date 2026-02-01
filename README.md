@@ -38,7 +38,7 @@ iOS Developer/Intern. Готов к стажировке и офферу. Фор
 
 - **Тесты:** XCTest (Unit), TDD‑подход на простых кейсах
 
-- **Сеть:** URLSession; базовые REST‑паттерны; ручной парсинг JSON
+- **Сеть:** URLSession, базовые REST‑паттерны
 
 ---
 
@@ -52,7 +52,7 @@ iOS Developer/Intern. Готов к стажировке и офферу. Фор
   Стек: Swift, UIKit/SwiftUI, MVP + Coordinator, URLSession, UserDefaults, XCTest.    
   Код: https://github.com/Alexander6Shevtsov/ShopApp
 
-- **TodoListApp** — список дел без Storyboard  
+- **TodoListApp** — список дел
   Стек: Swift, UIKit, Core Data, MVC, верстка кодом.  
   Код: https://github.com/Alexander6Shevtsov/TodoListApp
 
