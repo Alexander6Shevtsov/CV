@@ -22,8 +22,8 @@ iOS Developer / Intern.
 
 ## Обо мне
 
-**Специализируюсь на UIKit.** 
-**Строю поддерживаемые приложения, работаю с сетью и локальным хранилищем, пишу модульные тесты.** 
+**Специализируюсь на UIKit.**     
+**Строю поддерживаемые приложения, работаю с сетью и локальным хранилищем, пишу модульные тесты.**     
 **Практикую MVP/MVVM/VIPER, Coordinator, принципы SOLID и слои Clean Architecture.** 
 
 ---
@@ -52,7 +52,6 @@ iOS Developer / Intern.
 - [ShopApp](https://github.com/Alexander6Shevtsov/ShopApp) — каталог + авторизация  
   Стек: Swift, UIKit+SwiftUI, MVP + Coordinator, URLSession, UserDefaults, XCTest.    
   Код: https://github.com/Alexander6Shevtsov/ShopApp
-
 
 ## Образование и курсы
 - iOS стажировка на проекте ШИФТ (ЦФТ)
