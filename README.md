@@ -40,18 +40,20 @@ iOS Developer / Intern.
 ---
 
  ## Проекты
-- [HomeCookBook](https://github.com/Alexander6Shevtsov/HomeCookBook) - кулинарная книга, финальный проект стажировки  
-  Стек: UIKit · VIPER · Core Data · URLSession + JSONDecoder · Swift Concurrency (async/await, actor)
-  Тесты: API, репозиторий, презентер, базовые UI-прогоны  
+- [HomeCookBook](https://github.com/Alexander6Shevtsov/HomeCookBook) - книга рецептов, финальный проект стажировки ШИФТ  
+  Функционал: загрузка данных из API, поиск, фильтры по категориям, избранное с сохранением между запусками, кэш    
+  Стек: UIKit · VIPER · Core Data · URLSession + JSONDecoder · Concurrency (async/await, actor)  
   Код: https://github.com/Alexander6Shevtsov/HomeCookBook
 
-- [ToDoList](https://github.com/Alexander6Shevtsov/ToDoList) — список дел  
-  Стек: Swift, UIKit, Core Data, MVC, Auto Layout.  
-  Код: https://github.com/Alexander6Shevtsov/ToDoList
+- [ToDoList](https://github.com/Alexander6Shevtsov/ToDoList) — менеджер задач  
+    Функционал: список с отметкой выполнения, поиск по заголовку/описанию, просмотр/редактирование/удаление/share  
+    Стек: UIKit (Auto Layout) · VIPER · Core Data · UserDefaults · URLSession + JSONDecoder · XCTest  
+    Код: https://github.com/Alexander6Shevtsov/ToDoList
 
 - [ShopApp](https://github.com/Alexander6Shevtsov/ShopApp) — каталог + авторизация  
-  Стек: Swift, UIKit+SwiftUI, MVP + Coordinator, URLSession, UserDefaults, XCTest.    
-  Код: https://github.com/Alexander6Shevtsov/ShopApp
+    Функционал: регистрация с валидацией и сохранением сессии, список из API, приветствие пользователя  
+    Стек: UIKit + SwiftUI · MVP + Coordinator · SOLID · Clean · URLSession · UserDefaults · XCTest    
+    Код: https://github.com/Alexander6Shevtsov/ShopApp
 
 ## Образование и курсы
 - iOS стажировка на проекте ШИФТ (ЦФТ)
