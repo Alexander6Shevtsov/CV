@@ -29,7 +29,7 @@ iOS Developer / Intern.
 ---
 
 ## Навыки
-- **Язык:** Swift 5.x, протокол-ориентированное проектирование  
+- **Язык:** Swift 5.x,  
 - **Фреймворки:** UIKit, SwiftUI, Core Data
 - **Хранение:** Core Data, Realm, UserDefaults
 - **Архитектуры:** MVP, MVVM, VIPER, Coordinator, SOLID слои Clean Architecture
