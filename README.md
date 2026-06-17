@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/97898e89-2bf1-476a-bf1c-271ada5a53ef" alt="Alexander Shevtsov" width="300" height="380">
+<img src="https://github.com/user-attachments/assets/97898e89-2bf1-476a-bf1c-271ada5a53ef" alt="Alexander Shevtsov" width="220" height="280">
 </p>
 
 <h1 align="center">Александр Шевцов — iOS Developer</h1>
@@ -21,16 +21,16 @@
 - Локальное хранение данных: Core Data, UserDefaults
 - Рефакторинг экранов, Presenter/ViewModel, сервисов и сетевого слоя
 - Улучшение структуры проекта: MVVM, MVP, VIPER, Coordinator
-- Подготовка небольших MVP-функций внутри существующего приложения
+- Разработка функций и MVP-модулей внутри существующего приложения
 - Разбор проекта и список технических проблем перед доработкой
 - Добавление unit-тестов для критичных сценариев: валидация, маппинг данных, обработка ошибок, Presenter/ViewModel
 ---
 
 ## Обо мне
 
-**Специализируюсь на UIKit / SwiftUI.**     
-**Строю поддерживаемые приложения, работаю с сетью и локальным хранилищем, пишу модульные тесты.**     
-**Практикую MVP/MVVM/VIPER, Coordinator, принципы SOLID и слои Clean Architecture.** 
+iOS-разработчик на Swift. Помогаю дорабатывать существующие UIKit и SwiftUI-приложения: исправляю баги, подключаю REST API, работаю с локальным хранением данных и улучшаю структуру проекта.
+
+Пишу понятный поддерживаемый код, умею работать с архитектурами MVP, MVVM, VIPER и Coordinator. Для критичных сценариев добавляю unit-тесты.
 
 ---
 
@@ -38,28 +38,59 @@
 - **Язык:** Swift 5.x,  
 - **Фреймворки:** UIKit, SwiftUI, Core Data
 - **Хранение:** Core Data, Realm, UserDefaults
-- **Архитектуры:** MVP, MVVM, VIPER, Coordinator, SOLID слои Clean Architecture
+- **Архитектуры:** MVP, MVVM, VIPER, Coordinator, SOLID и слои Clean Architecture
 - **Инструменты:**  Xcode, Git, SPM
 - **Тесты:** XCTest (Unit)
 - **Сеть:** URLSession, REST‑паттерны
 
 ---
 
- ## Проекты
-- [HomeCookBook](https://github.com/Alexander6Shevtsov/HomeCookBook) - книга рецептов, финальный проект стажировки ШИФТ  
-  Функционал: загрузка данных из API, поиск, фильтры по категориям, избранное с сохранением между запусками, кэш    
-  Стек: UIKit · VIPER · Core Data · URLSession + JSONDecoder · Concurrency (async/await, actor)  
-  Код: https://github.com/Alexander6Shevtsov/HomeCookBook
+## Проекты
 
-- [ToDoList](https://github.com/Alexander6Shevtsov/ToDoList) — менеджер задач  
-    Функционал: список с отметкой выполнения, поиск по заголовку/описанию, просмотр/редактирование/удаление/share  
-    Стек: UIKit (Auto Layout) · VIPER · Core Data · UserDefaults · URLSession + JSONDecoder · XCTest  
-    Код: https://github.com/Alexander6Shevtsov/ToDoList
+### HomeCookBook
 
-- [ShopApp](https://github.com/Alexander6Shevtsov/ShopApp) — каталог + авторизация  
-    Функционал: регистрация с валидацией и сохранением сессии, список из API, приветствие пользователя  
-    Стек: UIKit + SwiftUI · MVP + Coordinator · SOLID · Clean · URLSession · UserDefaults · XCTest    
-    Код: https://github.com/Alexander6Shevtsov/ShopApp
+Книга рецептов на UIKit с загрузкой данных из TheMealDB API.
+
+Функционал:
+- список рецептов
+- поиск и фильтрация по категориям
+- экран деталей рецепта
+- избранное с сохранением между запусками
+- кэширование изображений в памяти и на диске
+
+Стек: Swift · UIKit · VIPER · Core Data · URLSession · JSONDecoder · async/await · actor · NSCache · FileManager
+
+Код: https://github.com/Alexander6Shevtsov/HomeCookBook
+
+### ToDoList
+
+Менеджер задач с локальным хранением и unit-тестами.
+
+Функционал:
+- создание, редактирование и удаление задач
+- отметка выполнения
+- поиск по заголовку и описанию
+- просмотр деталей задачи
+- сохранение данных между запусками
+
+Стек: Swift · UIKit · Auto Layout · VIPER · Core Data · UserDefaults · URLSession · JSONDecoder · XCTest
+
+Код: https://github.com/Alexander6Shevtsov/ToDoList
+
+### ShopApp
+
+Тестовое iOS-приложение с авторизацией, валидацией и загрузкой данных из API.
+
+Функционал:
+- регистрация пользователя
+- валидация формы
+- сохранение сессии
+- загрузка списка из API
+- экран приветствия пользователя
+
+Стек: Swift · UIKit · SwiftUI · MVP · Coordinator · URLSession · UserDefaults · XCTest
+
+Код: https://github.com/Alexander6Shevtsov/ShopApp
 
 ## Образование и курсы
 - iOS стажировка на проекте ШИФТ (ЦФТ)
@@ -70,7 +101,7 @@
 
 ## Формат работы
 
-Готов брать задачи по iOS-разработке: багфиксы, доработки экранов, подключение API, работа с локальным хранением, рефакторинг и поддержка существующего проекта.
+Беру задачи по iOS-разработке: багфиксы, доработки экранов, подключение API, работа с локальным хранением, рефакторинг и поддержка существующего проекта.
 
 Перед началом работы могу посмотреть задачу, оценить сложность и предложить понятный план реализации.
 
