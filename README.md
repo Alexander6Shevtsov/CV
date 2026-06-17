@@ -9,14 +9,20 @@
 **Telegram:** [@Xander_Koin](https://t.me/Xander_Koin)  
 **LinkedIn:** [Александр Шевцов](https://www.linkedin.com/in/alexander-shevtsov)  
 **GitHub:**   [Alexander6Shevtsov](https://github.com/Alexander6Shevtsov)  
-**hh:**       [Скачать CV](https://drive.google.com/file/d/1QeCRQYSfWB3VaLF0li1ZfG8IzQCTq0TJ/view?usp=drive_link)
 
 ---
 
-## Цель
-iOS Developer / Intern.   
-Готов к стажировке и офферу.   
-Формат: удалённый, гибрид/офис СПб.
+## Услуги
+
+- Исправление багов в UIKit и SwiftUI-приложениях
+- Доработка существующих экранов и пользовательских сценариев
+- Интеграция REST API через URLSession
+- Работа с JSON, DTO, маппингом данных и обработкой ошибок
+- Локальное хранение данных: Core Data, UserDefaults
+- Рефакторинг экранов, Presenter/ViewModel, сервисов и сетевого слоя
+- Улучшение структуры проекта: MVVM, MVP, VIPER, Coordinator
+- Подготовка небольших MVP-функций внутри существующего приложения
+- Разбор проекта и список технических проблем перед доработкой
 
 ---
 
@@ -34,7 +40,7 @@ iOS Developer / Intern.
 - **Хранение:** Core Data, Realm, UserDefaults
 - **Архитектуры:** MVP, MVVM, VIPER, Coordinator, SOLID слои Clean Architecture
 - **Инструменты:**  Xcode, Git, SPM
-- **Тесты:** XCTest (Unit), TDD‑подход на простых кейсах
+- **Тесты:** XCTest (Unit)
 - **Сеть:** URLSession, REST‑паттерны
 
 ---
