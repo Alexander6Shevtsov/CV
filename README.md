@@ -1,119 +1,73 @@
-<p align="center">
-<img src="https://github.com/user-attachments/assets/97898e89-2bf1-476a-bf1c-271ada5a53ef" alt="Alexander Shevtsov" width="220" height="280">
-</p>
+# Александр Шевцов — iOS Developer
 
-<h1 align="center">Александр Шевцов — iOS Developer</h1>
+**Swift · UIKit · SwiftUI | iOS Internship / Junior iOS Developer**
 
-**Город:**    Санкт-Петербург  
-**Email:**    [alexander.s.shevtsov@gmail.com](mailto:alexander.s.shevtsov@gmail.com)  
-**Telegram:** [@Xander_Koin](https://t.me/Xander_Koin)  
-**LinkedIn:** [Александр Шевцов](https://www.linkedin.com/in/alexander-shevtsov)  
-**GitHub:**   [Alexander6Shevtsov](https://github.com/Alexander6Shevtsov)  
+📍 Санкт-Петербург · Открыт к iOS-стажировке и начальной позиции (офис / гибрид / удалённо)
 
----
-
-## Помогаю с
-
-- Исправление багов в UIKit и SwiftUI-приложениях
-- Доработка существующих экранов и пользовательских сценариев
-- Интеграция REST API через URLSession
-- Работа с JSON, DTO, маппингом данных и обработкой ошибок
-- Локальное хранение данных: Core Data, UserDefaults
-- Рефакторинг экранов, Presenter/ViewModel, сервисов и сетевого слоя
-- Улучшение структуры проекта: MVVM, MVP, VIPER, Coordinator
-- Разработка функций и MVP-модулей внутри существующего приложения
-- Разбор проекта и список технических проблем перед доработкой
-- Добавление unit-тестов для критичных сценариев: валидация, маппинг данных, обработка ошибок
----
+[Email](mailto:alexander.s.shevtsov@gmail.com) · [Telegram](https://t.me/Xander_Koin) · [LinkedIn](https://www.linkedin.com/in/alexander-shevtsov/) · [GitHub](https://github.com/Alexander6Shevtsov)
 
 ## Обо мне
 
-iOS-разработчик на Swift. Помогаю дорабатывать существующие UIKit и SwiftUI-приложения: исправляю баги, подключаю REST API, работаю с локальным хранением данных и улучшаю структуру проекта.
+Студент **Московского технологического института** по направлению «Информационные системы и технологии» (разработка и тестирование ПО, выпуск в **2030 году**). Прошёл iOS-стажировку **ШИФТ (ЦФТ)**.
 
-Пишу понятный поддерживаемый код, умею работать с архитектурами MVP, MVVM, VIPER и Coordinator. Для критичных сценариев добавляю unit-тесты.
+Разрабатываю iOS-приложения на Swift, преимущественно с **UIKit**, использую **SwiftUI** для отдельных экранов. В проектах реализовывал интерфейсы, сетевой слой, локальное хранение, разделение ответственности между модулями и unit-тесты. Хочу работать над реальным продуктом в команде, участвовать в Code Review и развивать навыки промышленной iOS-разработки.
 
----
+## Технологии
 
-## Навыки
-- **Язык:** Swift 5.x,  
-- **Фреймворки:** UIKit, SwiftUI, Core Data
-- **Хранение:** Core Data, Realm, UserDefaults
-- **Архитектуры:** MVP, MVVM, VIPER, Coordinator, SOLID и слои Clean Architecture
-- **Инструменты:**  Xcode, Git, SPM
-- **Тесты:** XCTest (Unit)
-- **Сеть:** URLSession, REST‑паттерны
-
----
+- **iOS:** Swift, UIKit, SwiftUI, Auto Layout, Xcode
+- **Архитектура:** VIPER, MVVM, MVP, Coordinator, SOLID
+- **Сеть и многопоточность:** URLSession, REST API, JSONDecoder, async/await, actor, GCD
+- **Хранение:** Core Data, UserDefaults, NSCache, FileManager
+- **Тестирование и процессы:** XCTest, Git, GitHub Flow, Code Review
 
 ## Проекты
 
-### HomeCookBook
+### [HomeCookBook — приложение с рецептами](https://github.com/Alexander6Shevtsov/HomeCookBook)
 
-Книга рецептов на UIKit с загрузкой данных из TheMealDB API.
+**Финальный проект iOS-стажировки ШИФТ (ЦФТ).**
 
-Функционал:
-- список рецептов
-- поиск и фильтрация по категориям
-- экран деталей рецепта
-- избранное с сохранением между запусками
-- кэширование изображений в памяти и на диске
+- Каталог рецептов через TheMealDB API, поиск, фильтры и экран деталей.
+- Избранное с сохранением в Core Data.
+- Кеширование изображений в памяти и на диске, предзагрузка; Swift Concurrency (async/await, actor).
+- UIKit, VIPER, светлая и тёмная темы.
 
-Стек: Swift · UIKit · VIPER · Core Data · URLSession · JSONDecoder · async/await · actor · NSCache · FileManager
+[Код и скриншоты](https://github.com/Alexander6Shevtsov/HomeCookBook#readme)
 
-Код: https://github.com/Alexander6Shevtsov/HomeCookBook
+### [ToDoList — менеджер задач](https://github.com/Alexander6Shevtsov/ToDoList)
 
-### ToDoList
+- Создание, изменение, удаление, поиск и сохранение задач.
+- UIKit, VIPER, Core Data, UserDefaults.
+- **XCTest:** тесты Presenter, репозитория и API-клиента.
 
-Менеджер задач с локальным хранением и unit-тестами.
+[Код, тесты и скриншоты](https://github.com/Alexander6Shevtsov/ToDoList#readme)
 
-Функционал:
-- создание, редактирование и удаление задач
-- отметка выполнения
-- поиск по заголовку и описанию
-- просмотр деталей задачи
-- сохранение данных между запусками
+### [ShopApp — регистрация и каталог](https://github.com/Alexander6Shevtsov/ShopApp)
 
-Стек: Swift · UIKit · Auto Layout · VIPER · Core Data · UserDefaults · URLSession · JSONDecoder · XCTest
+- Регистрация с валидацией на SwiftUI, каталог товаров на UIKit.
+- REST API, локальное хранение сессии, MVP + Coordinator.
+- **XCTest:** тесты валидаторов и RegistrationViewModel.
 
-Код: https://github.com/Alexander6Shevtsov/ToDoList
+[Код и скриншоты](https://github.com/Alexander6Shevtsov/ShopApp#readme)
 
-### ShopApp
+## Практический опыт
 
-Тестовое iOS-приложение с авторизацией, валидацией и загрузкой данных из API.
+**Центр финансовых технологий / программа ШИФТ — стажёр iOS-разработчик** · сентябрь–ноябрь 2025
 
-Функционал:
-- регистрация пользователя
-- валидация формы
-- сохранение сессии
-- загрузка списка из API
-- экран приветствия пользователя
+- UIKit-компоненты и навигация, MVVM/VIPER, URLSession/JSON.
+- GitHub Flow, работа с ветками и Code Review.
 
-Стек: Swift · UIKit · SwiftUI · MVP · Coordinator · URLSession · UserDefaults · XCTest
+**Фриланс — iOS-разработчик** · январь–октябрь 2026
 
-Код: https://github.com/Alexander6Shevtsov/ShopApp
+- Доработка экранов UIKit/SwiftUI и пользовательских сценариев.
+- Интеграция REST API, исправление ошибок, unit-тестирование.
 
-## Образование и курсы
-- iOS стажировка на проекте ШИФТ (ЦФТ)
-- Курс iOS Developer, Школа мобильной разработки SwiftBook
-- «Государственный политехнический колледж» РБ.  
-   Разработка и сопровождение программного обеспечения информационных систем.  
-   Техник-программист  
+## Образование
 
-## Формат работы
+- **Московский технологический институт (МТИ)** — «Информационные системы и технологии», разработка и тестирование ПО, выпуск в 2030 г.
+- **SwiftBook**, курс «iOS-разработчик» — 2025 г.
+- **Государственный политехнический колледж РБ** — техник-программист, 2011 г.
+- **Английский:** B1.
 
-Беру задачи по iOS-разработке: багфиксы, доработки экранов, подключение API, работа с локальным хранением, рефакторинг и поддержка существующего проекта.
+## Цель
 
-Перед началом работы могу посмотреть задачу, оценить сложность и предложить понятный план реализации.
-
-
-
-
-
-
-
-
-
-
-
-
-
+**iOS Developer Internship / Junior iOS Developer** — командная разработка, реальные задачи и развитие экспертизы в Swift.
