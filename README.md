@@ -33,21 +33,23 @@
 
 [Код и скриншоты](https://github.com/Alexander6Shevtsov/HomeCookBook#readme)
 
-### [ToDoList — менеджер задач](https://github.com/Alexander6Shevtsov/ToDoList)
+### [EnglishGrammar — изучение английской грамматики](https://github.com/Alexander6Shevtsov/EnglishGrammar)
 
-- Создание, изменение, удаление, поиск и сохранение задач.
-- UIKit, VIPER, Core Data, UserDefaults.
-- **XCTest:** тесты Presenter, репозитория и API-клиента.
+- 34 офлайн-урока, 340 вопросов и интерактивные справочники по английской грамматике.
+- Последовательное открытие уроков, проверка ответов и сохранение прогресса в Core Data.
+- UIKit, MVVM + Coordinator, async/await.
+- **XCTest и GitHub Actions:** тесты ViewModel, логики обучения и хранения данных; автоматическая сборка и запуск тестов.
 
-[Код, тесты и скриншоты](https://github.com/Alexander6Shevtsov/ToDoList#readme)
+[Код, тесты и скриншоты](https://github.com/Alexander6Shevtsov/EnglishGrammar#readme)
 
-### [ShopApp — регистрация и каталог](https://github.com/Alexander6Shevtsov/ShopApp)
+### [RepsCounter — подсчёт повторений по камере](https://github.com/Alexander6Shevtsov/RepsCounter)
 
-- Регистрация с валидацией на SwiftUI, каталог товаров на UIKit.
-- REST API, локальное хранение сессии, MVP + Coordinator.
-- **XCTest:** тесты валидаторов и RegistrationViewModel.
+- Распознавание позы и подсчёт приседаний по изображению с камеры iPhone.
+- Vision и AVFoundation; анализ углов суставов и сглаживание измерений на устройстве.
+- Подходы, пауза, отдых и сохранение истории тренировок в Core Data.
+- UIKit, MVVM, Dependency Injection, Swift Concurrency.
 
-[Код и скриншоты](https://github.com/Alexander6Shevtsov/ShopApp#readme)
+[Код и архитектура](https://github.com/Alexander6Shevtsov/RepsCounter#readme)
 
 ## Практический опыт
 
