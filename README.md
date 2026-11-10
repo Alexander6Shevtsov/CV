@@ -17,7 +17,7 @@
 ## Технологии
 
 - **iOS:** Swift, UIKit, SwiftUI, Auto Layout, Xcode
-- **Архитектура:** VIPER, MVVM, MVP, Coordinator, SOLID
+- **Архитектура:** VIPER, MVVM, MVP, Clean Swift, SOLID
 - **Сеть и многопоточность:** URLSession, REST API, JSONDecoder, async/await, actor, GCD
 - **Хранение:** Core Data, UserDefaults, NSCache, FileManager
 - **Тестирование и процессы:** XCTest, Git, GitHub Flow, Code Review
